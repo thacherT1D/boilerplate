@@ -1,4 +1,1 @@
-boilerplate
-===========
-
-Initial workflow with grunt / less / bootstrap 3
+Starting point with bootstrap 3, grunt, and less
